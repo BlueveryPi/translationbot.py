@@ -65,5 +65,5 @@ async def on_message(ctx):
             #await user[0].defer(ephemeral=True)
 
 
-bot.run("???")
+bot.run("your_token_here")
 #Made by I_Love_Python#1862. All rights reserved.
